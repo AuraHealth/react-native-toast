@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
-#import <React/RCTLog.h>
-#import <React/RCTBridgeModule.h>
+#import "RCTLog.h"
+#import "RCTBridgeModule.h"
 #import "Toast+UIView.h"
 
 
